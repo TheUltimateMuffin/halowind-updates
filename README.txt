@@ -1,0 +1,1 @@
+This is the repo for Halowind Releases. Build will be able to update from here as new releases are pushed.
